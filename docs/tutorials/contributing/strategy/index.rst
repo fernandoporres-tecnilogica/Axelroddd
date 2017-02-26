@@ -11,7 +11,6 @@ Contents:
 
    instructions.rst
    writing_the_new_strategy.rst
-   docstrings.rst
    adding_the_new_strategy.rst
    classifying_the_new_strategy.rst
    writing_test_for_the_new_strategy.rst
